@@ -1,1 +1,1 @@
-# id_my_pi
+# ID My PIThis script will help you to identify the model of your PI.  If you're a developer or a system integrator like me, this script is useful in determining the version/model of your Raspberry PI.  I use it to install specific version of my code based on model number.  I just include it in my installation process to identify and continue 
